@@ -1,0 +1,4 @@
+baseURL = "https://devset.dev/"
+languageCode = "en-us"
+title = "devset.dev"
+theme = "newsroom"
